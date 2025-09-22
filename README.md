@@ -5,11 +5,11 @@ I am testing this feature
 -vvvvvvv
 
 
-Magnus by Immunefi
+Magnus by 
 Magnus is a comtion platform developed by Immunefi. It provides protocols with the tools needed to consolidate and automate their security operations, combining multiple layers of defense into a single interface. Built with scalability and adaptability in mind, Magnus is engineered to meet the evolving security needs of decentralized systems.
 
 Overview
-In the rapidly shifting landscape of Web3, maintaining proactive and responsive security infrastructure is essential. Magnus bridges the gap between manual SecOps and the demand for rea are exploited, automate incident response procedures, and maintain visibility across all deployed smart contracts. It is designed to act not just as a monitoring system, but as a decision-making engine that integrates with both human and machine agents.
+In the rapidly shifting landscape of Web3, maintaining proactive and responsive security infrastructure is essential. Magnus bridges the gap between manual SecOps and the demand for rea arine that integrates with both human and machine agents.
 ABCDEFG
 Key Capabilities
 Security Orchestration: Centralize your security tools, data, and workflows into one coordinated system.
